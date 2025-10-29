@@ -1,0 +1,50 @@
+{
+    "users": [{
+        "fullname": "Aisha Yusuf",
+        "email": "aishaYusuf@user",
+        "password": "1234",
+        "id": "1",
+        "events":[{
+            "id": "0001",
+            "title": "Summer Music Festival 2025",
+            "description": "Join us for an amazing...", 
+            "status": "open", 
+            "eventDate": "2025-11-15",
+            "location": "Central Park, Lagos",
+            "totalTickets": 500, 
+            "ticketsSold": 120,
+            "ticketPrice": 5000,
+            "category": "Music",
+            "createdAt": "timestamp",
+            "updatedAt": "timestamp"
+            },{
+            "id": "0002",
+            "title": "Tech Conference 2025",
+            "description": "Join us for an amazing...", 
+            "status": "in_progress", 
+            "eventDate": "2025-10-28",
+            "location": "Eko Hotel, V.I",
+            "totalTickets": 300, 
+            "ticketsSold": 300,
+            "ticketPrice": 15000,
+            "category": "Music",
+            "createdAt": "timestamp",
+            "updatedAt": "timestamp"
+            },{
+            "id": "0003",
+            "title": "Food and Wine Expo",
+            "description": "Join us for an amazing...", 
+            "status": "closed", 
+            "eventDate": "2025-09-20",
+            "location": "Kwali Arts Center",
+            "totalTickets": 500, 
+            "ticketsSold": 450,
+            "ticketPrice": 8000,
+            "category": "Music",
+            "createdAt": "timestamp",
+            "updatedAt": "timestamp"
+            }
+        ]
+        }
+    ]
+}
